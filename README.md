@@ -3,7 +3,7 @@ Welcome to the Codsoft Internship Projects repository! In this repository, you w
 
 ## Table of Contents
 * [Landing Page](#
-* [Portfolio](#
+* [Portfolio](#https://github.com/POKALA-SAI-GOPAL/CODSOFT/tree/main/CODSOFT%20TASK%202)
 * [Calculator](#
 
 ## Landing Page
