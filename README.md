@@ -4,7 +4,7 @@ Welcome to the Codsoft Internship Projects repository! In this repository, you w
 ## Table of Contents
 * [Landing Page](#https://github.com/POKALA-SAI-GOPAL/CODSOFT/tree/main/CODSOFT%20TASK%201)
 * [Portfolio](#https://github.com/POKALA-SAI-GOPAL/CODSOFT/tree/main/CODSOFT%20TASK%202)
-* [Calculator](#
+* [Calculator](#https://github.com/POKALA-SAI-GOPAL/CODSOFT/tree/main/CODSOFT%20TASK%203)
 
 ## Landing Page
 Description: Simple landing page which can be used for all websites. It contains a navigaton bar and a order now button. It has been creted using an HTML file styled using CSS
